@@ -1,2 +1,2 @@
-# live-challenge-project
-Project about live workout challenges
+# Test prep project
+Website to prepare for tests
